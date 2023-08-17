@@ -1,2 +1,2 @@
 # GL-Calib
-Robust GNSS-LiDAR Extrinsic Calibration Method
+GLCalib: GNSS-LiDAR Extrinsic Calibration and Observability Analysis.
